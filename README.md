@@ -4,10 +4,7 @@
 
   - [Network Diagram](https://github.com/camilasofia59/NetworkDiagram)
   - [Search Engine Hacking](https://github.com/camilasofia59/SearchEngineHacking/blob/main/README.md)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+  
 
 <h2> 🤳 Connect with me:</h2>
 
