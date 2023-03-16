@@ -3,7 +3,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Network Diagram](https://github.com/camilasofia59/NetworkDiagram)
-  - [Search Engine Hacking](https://github.com/camilasofia59/SearchEngineHacking/blob/main/README.md)
   
 
 <h2> 🤳 Connect with me:</h2>
